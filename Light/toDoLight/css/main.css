@@ -1,0 +1,19 @@
+.list {
+  height: 200px;
+  width: 200px;
+}
+.checkbox {
+  display: inline;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: block;
+}
+
+
+.done {
+  color: #8b8b8b;
+}
